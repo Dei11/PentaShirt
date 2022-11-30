@@ -1,0 +1,26 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(192,208,181);
+    z-index: 2;
+    opacity: 90%;
+}
+.footer h1{
+    font-family: 'Caveat', cursive;
+    letter-spacing: 10px;
+    background-color: #7c04ff;
+    font-size: 20px;
+    color: white;
+    margin-right: 15px;
+}
+
+.footer a{
+    font-size: 40px;
+    text-decoration: none;
+    color: #7c04ff;
+    margin-right: 15px;
+}

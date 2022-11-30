@@ -1,0 +1,26 @@
+p{
+    font-size: 50px;
+    margin: 0;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px;
+}
+
+.mail {
+    margin-bottom: 15px;
+}
+
+.mail a{
+    font-size: 20px;
+}
+
+.mail i{
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+}
